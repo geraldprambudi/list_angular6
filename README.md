@@ -1,3 +1,3 @@
 # list_angular6
 angular 6 
-test angular
+membuat tour of heroes menggunakan angular 6
