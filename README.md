@@ -1,8 +1,8 @@
 Aplikasi Tour Of Heroes Menggunakan Angular 6
 
-requirement : 
+Requirement : 
 1. Node js
 2. NPM
 
-cara menjalankan :
+Cara menjalankan angular buka terminal, lalu ketikan :
 ng serve
